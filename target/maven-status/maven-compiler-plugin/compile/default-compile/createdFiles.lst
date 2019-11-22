@@ -1,0 +1,5 @@
+com/ccAssets/independentmicroservice/IndependentMicroServiceApplication.class
+com/ccAssets/independentmicroservice/sample/IndependentEntity.class
+com/ccAssets/independentmicroservice/sample/controllers/IndependentController.class
+com/ccAssets/independentmicroservice/sample/IndependentEntityRepository.class
+com/ccAssets/independentmicroservice/authentication/KeycloakConfig.class
